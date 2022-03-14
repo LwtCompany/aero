@@ -1,0 +1,2 @@
+# aero
+docker-compose up
